@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 716b928ff26690844a25fa842f918891
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zigzagPanel: {instanceID: 0}
+  - gameOverPanel: {fileID: 1306010611825178, guid: a2c79b2e82ee9844a85a9ea7034de9bd,
+      type: 2}
+  - tapText: {instanceID: 0}
+  - score: {fileID: 114445232672474954, guid: 4a5ca1b06b9970b4cbe6df76e1ed2166, type: 2}
+  - highScore1: {instanceID: 0}
+  - highScore2: {fileID: 114504620943266582, guid: 4a5ca1b06b9970b4cbe6df76e1ed2166,
+      type: 2}
+  - DiamondScore: {fileID: 114309280332308244, guid: 4a5ca1b06b9970b4cbe6df76e1ed2166,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
